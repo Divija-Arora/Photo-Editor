@@ -20,3 +20,10 @@ It provides a user-friendly interface for performing basic photo editing tasks a
 
 
 Hope you will enjoy it:)
+
+#### Tech Stack
+- HTML
+- CSS
+- JavaScript
+- Tkinter
+- PHP 
